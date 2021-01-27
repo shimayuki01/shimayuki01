@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shimayuki01)
 ![](https://raw.githubusercontent.com/shimayuki01/shimayuki01/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://github-readme-stats.vercel.app/api?username=shimayuki01)
+
